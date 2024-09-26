@@ -1,0 +1,10 @@
+print("Hello world!")
+print(1 + 2)
+print("1 + 2")
+print("1" + "2")
+print(5.3 + 5.5)
+
+first_name = input("Please enter your first name: ")
+last_name = input("Please enter your last name: ")
+print(f"Hello, {first_name} {last_name}!")
+print("hello" + " " + first_name + " " + last_name)
